@@ -1,5 +1,4 @@
-person = {name: "Борис", age: "48", message: "Желаем успехов в
-лечении простатита!"}
+person = {name: "Борис", age: "48", message: "Желаем успехов в лечении простатита!"}
 
 def happy_birthday(person)
   puts
